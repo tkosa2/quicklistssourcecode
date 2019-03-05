@@ -1,0 +1,6 @@
+{
+  "appId": "com.mycompany.myproject",
+  "appName": "quicklists",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
